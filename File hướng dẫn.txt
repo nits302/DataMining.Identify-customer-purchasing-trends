@@ -1,0 +1,2 @@
+- BASKET1N.csv		: là file dữ liệu gốc
+- CustomersData. csv	: là file đã thực hiện tiền xử lý dữ liệu
